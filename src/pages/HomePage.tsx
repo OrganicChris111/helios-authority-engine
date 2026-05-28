@@ -77,7 +77,7 @@ function HeroSection() {
             </h1>
 
             <p className="text-lg sm:text-xl text-helios-textMuted max-w-2xl mx-auto mb-10 leading-relaxed">
-              Increase Your Brand’s Visibility, Authority, and Trust Across Google SEO, AI Search and the Web For More Customers.”
+              Increase Your Brand’s Visibility, Authority, and Trust Across Google SEO, AI Search and the Web For More Customers.
             </p>
 
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4">

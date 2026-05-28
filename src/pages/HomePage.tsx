@@ -77,8 +77,7 @@ function HeroSection() {
             </h1>
 
             <p className="text-lg sm:text-xl text-helios-textMuted max-w-2xl mx-auto mb-10 leading-relaxed">
-              Helios automates PR distribution, publisher intelligence and AI-assisted content generation 
-              to build the citations, backlinks and brand authority that power modern AI search and SEO visibility.
+              Helios combines strategic PR, SEO content and trusted media placements to improve your business's visibility across Google, AI search and the web.”
             </p>
 
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4">

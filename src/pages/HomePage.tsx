@@ -71,7 +71,7 @@ function HeroSection() {
             </motion.div>
 
             <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-helios-text tracking-tight mb-6 leading-tight">
-              Ready To Stop Being.{' '}
+              Ready To Stop Being{' '}
               <span className="text-gradient-gold">Invisible Online</span>
               <br className="hidden sm:block" />
             </h1>

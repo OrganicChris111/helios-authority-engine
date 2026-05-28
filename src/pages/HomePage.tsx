@@ -71,10 +71,9 @@ function HeroSection() {
             </motion.div>
 
             <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-helios-text tracking-tight mb-6 leading-tight">
-              Build Authority That{' '}
-              <span className="text-gradient-gold">AI And Search</span>
+              Increase Your Brand’s Visibility, Authority, and Trust Across{' '}
+              <span className="text-gradient-gold">Google SEO, AI Search and the Web</span>
               <br className="hidden sm:block" />
-              {' '}Engines Trust.
             </h1>
 
             <p className="text-lg sm:text-xl text-helios-textMuted max-w-2xl mx-auto mb-10 leading-relaxed">

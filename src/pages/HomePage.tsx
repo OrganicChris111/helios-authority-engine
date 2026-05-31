@@ -71,8 +71,8 @@ function HeroSection() {
             </motion.div>
 
             <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-helios-text tracking-tight mb-6 leading-tight">
-              “Outrank Competitors. Build Trust.”{' '}
-              <span className="text-gradient-gold">Get Found Online.</span>
+              Outrank Competitors. Build Trust.{' '}
+              <span className="text-gradient-gold">Be Found Online.</span>
               <br className="hidden sm:block" />
             </h1>
 

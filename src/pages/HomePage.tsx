@@ -71,13 +71,13 @@ function HeroSection() {
             </motion.div>
 
             <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-helios-text tracking-tight mb-6 leading-tight">
-              Ready To Stop Being{' '}
-              <span className="text-gradient-gold">Invisible Online</span>
+              “Outrank Competitors. Build Trust.”{' '}
+              <span className="text-gradient-gold">Get Found Online.</span>
               <br className="hidden sm:block" />
             </h1>
 
             <p className="text-lg sm:text-xl text-helios-textMuted max-w-2xl mx-auto mb-10 leading-relaxed">
-              Increase Your Brand’s Visibility, Authority, and Trust Across Google SEO, AI Search and the Web For More Customers.
+              Increase visibility, build authority and stand out across Google, AI search and trusted websites.
             </p>
 
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
